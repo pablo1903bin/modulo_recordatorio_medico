@@ -1,0 +1,12 @@
+base_locale: es
+input_directory: lib/i18n
+input_file_pattern: .json
+output_directory: lib/gen/i18n
+output_file_name: translations_mobil.g.dart
+output_format: single_file
+namespaces: true
+translate_var: text
+enum_name: AppLocale
+class_name: TranslationsCommons
+string_interpolation: double_braces
+translation_overrides: false

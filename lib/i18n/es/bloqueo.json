@@ -1,0 +1,15 @@
+{
+    "titulo":"¿Está seguro de que desea bloquear la aplicación?",
+    "boton_bloqueo" :"Bloquear",
+    "descripcion_bloqueo":"Al bloquear la aplicación, protegerás tu información y evitarás el acceso no autorizado. Podrás desbloquearla fácilmente al iniciar sesión nuevamente.",
+
+    "titulo_exito_bloqueo":"Bloqueo Exitoso",
+    "titulo_error_bloqueo":"Error al Bloquear",
+    "descripcion_bloqueo_exitoso":"Su cuenta ha sido bloqueada con éxito.",
+    "descripcion_bloqueo_error":"Hubo un error al intentar bloquear su cuenta.",
+
+    "resultado_aceptar":"Aceptar",
+    "cerrar_sesion":"Sesión cerrada correctamente",
+    "token_no_encontrado":"Token no encontrado. Intenta de nuevo",
+    "cancelar_token":"Operación cancelada por el usuario"
+}

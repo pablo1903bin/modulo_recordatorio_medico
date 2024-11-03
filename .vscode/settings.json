@@ -1,0 +1,30 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": "always",
+        "source.organizeImports": "always"
+    },
+    "workbench.editor.enablePreview": false,
+    "explorer.autoReveal": false,
+    "editor.linksNavigation": false,
+    "editor.hover.delay": 2000,
+    "command-runner.commands": {
+        "pub get": "dart pub get",
+        "pub get_all": "cd mmovil && flutter pub get && cd .. && cd mmovil_commons && flutter pub get && cd .. && flutter pub get",
+        "build_runner": "dart run build_runner build",
+        "build_runner delete conflictos": "dart run build_runner build --delete-conflicting-outputs",
+        "flutter_gen_assets": "dart run flutter_gen:flutter_gen_command",
+        "slang-Internacionalizacion" : "dart run slang",
+        "ios-dev":"flutter build ios-framework --no-release --no-profile",
+        "ios-produccion":"flutter build ios-framework --no-debug --no-profile",
+        "ios-all":"flutter build ios-framework --no-profile",
+        "android-dev":"flutter build aar --no-release --no-profile",
+        "android-produccion":"flutter build aar --no-debug --no-profile",
+        "android-1.0.7-dev":"flutter build aar --build-number=1.0.7 --no-release --no-profile",
+        "android-1.0.7-produccion":"flutter build aar --build-number=1.0.7 --no-debug --no-profile",
+        "android-1.0.7-all":"flutter build aar --build-number=1.0.7 --no-profile",
+        "ios-dev-deploy":"flutter build ios-framework --no-release --no-profile && rm -rf $MMOVILFLT_DESTINO/Debug && cp -R $MMOVILFLT_ORIGEN/Debug $MMOVILFLT_DESTINO/",
+        "ios-release-deploy":"flutter build ios-framework --no-debug --no-profile && rm -rf $MMOVILFLT_DESTINO/Release && cp -R $MMOVILFLT_ORIGEN/Release $MMOVILFLT_DESTINO/",
+        "ios-all-deploy":"flutter build ios-framework --no-profile && rm -rf $MMOVILFLT_DESTINO/Debug && rm -rf $MMOVILFLT_DESTINO/Release && cp -R $MMOVILFLT_ORIGEN/Debug $MMOVILFLT_DESTINO/ && cp -R $MMOVILFLT_ORIGEN/Release $MMOVILFLT_DESTINO/"
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
+}

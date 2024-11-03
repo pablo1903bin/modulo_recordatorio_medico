@@ -1,0 +1,8 @@
+{
+    "not_found": "Not found",
+    "network": "No internet access",
+    "unauthorized": "Unauthorized",
+    "unknown": "Unknown error",
+    "internalError": "Internal server error",
+    "badRequest": "Invalid request"
+}

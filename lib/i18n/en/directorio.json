@@ -1,0 +1,14 @@
+{
+    "titulo": "Directory",
+    "contratos_null":"No contracts were found",
+    "contrato":"Contract",
+    "titular_desconocido":"Unknown account holder",
+    
+    "error_data_cuenta":"An error occurred while retrieving account data",
+    "error_inesperado":"An unexpected error occurred",
+    "sin_servicios":"No services were found",
+    "error_directorio": "Directory Error",
+    "error_cuenta": "Error retrieving accounts",
+    "error_servicios": "Service Error",
+    "reintentar":"retry"
+}

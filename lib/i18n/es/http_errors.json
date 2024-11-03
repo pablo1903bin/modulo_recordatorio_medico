@@ -1,0 +1,8 @@
+{
+    "not_found":"No encontrado",
+    "network":"Sin acceso a internet",
+    "unauthorized":"Sin autorización",
+    "unknown":"Error desconocido",
+    "internalError":"Error interno del servidor",
+    "badRequest":"Petición invalida"
+}

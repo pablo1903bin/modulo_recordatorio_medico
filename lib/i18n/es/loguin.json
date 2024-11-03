@@ -1,0 +1,17 @@
+{
+  "app_title": "SaludAlDía",
+  "welcome_back": "¡Bienvenido de nuevo!",
+  "forgot_password": "¿Olvidaste tu contraseña?",
+  "new_user": "¿Eres nuevo usuario?",
+  "register_now": "Regístrate ahora",
+  "authentication_error": {
+    "title": "Error de autenticación",
+    "content": "Usuario o contraseña incorrectos. Por favor, intenta nuevamente."
+  },
+  "unexpected_error": {
+    "title": "Error",
+    "content": "Ocurrió un error inesperado. Por favor, inténtalo de nuevo."
+  },
+  "sign_in_button": "Iniciar sesión",
+  "logo_alt_text": "Logotipo de la Tesorería Escolar"
+}

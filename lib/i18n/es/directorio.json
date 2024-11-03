@@ -1,0 +1,15 @@
+{
+    "titulo":"Directorio",
+
+    "contratos_null":"No se encontraron contratos",
+    "contrato":"Contrato",
+    "titular_desconocido":"Titular desconocido",
+
+    "error_data_cuenta":"Ocurrió un error al consultar los datos de cuentas",
+    "error_inesperado":"Ocurrió un error inesperado",
+    "sin_servicios":"No se encontraron servicios",
+    "error_directorio":"Error en directorio",
+    "error_cuenta":"Error al recuperar cuentas",
+    "error_servicios":"Error de servicios",
+    "reintentar":"reintentar"
+}

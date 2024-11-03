@@ -1,0 +1,17 @@
+{
+    "titulo": "Are you sure you want to lock the application?",
+    "boton_bloqueo": "Lock",
+    "descripcion_bloqueo": "By locking the application, you will protect your information and prevent unauthorized access. You can easily unlock it by logging in again.",
+  
+    "titulo_exito_bloqueo": "Lock Successful",
+    "titulo_error_bloqueo": "Error Locking",
+    "descripcion_bloqueo_exitoso": "Your account has been successfully locked.",
+    "descripcion_bloqueo_error": "There was an error trying to lock your account.",
+  
+    "resultado_aceptar": "Accept",
+    "cerrar_sesion": "Session closed successfully",
+    "token_no_encontrado": "Token not found. Please try again",
+    "cancelar_token": "Operation canceled by the user"
+  
+  }
+  
